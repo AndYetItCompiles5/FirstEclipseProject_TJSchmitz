@@ -34,25 +34,7 @@ public class SimplePrint {
 	/**
 	 * @return the pName
 	 */
-	public String getpName() {
-		return pName;
-	}
 
-	/**
-	 * @param pName the pName to set
-	 */
-	public void setpName(String pName) {
-		this.pName = pName;
-	}
-
-	/**
-	 * @return the pAge
-	 */
-	public int getpAge() {
-		return pAge;
-	}
-
-	/**
 	 * @param pAge the pAge to set
 	 */
 	public void setpAge(int pAge) {
